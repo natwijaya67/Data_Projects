@@ -1,4 +1,4 @@
-+ # Exploratory Data Analysis of Google App Store
+# Exploratory Data Analysis of Google App Store
 +
 + In this project, I aim to apply my new Python data analysis skills onto a real dataset. There are many factor which determine the sucess of an app, 
 + whether determined by number of installs or ratings. I have attempted to answer these questions and analyzed more than 10,000 apps.
